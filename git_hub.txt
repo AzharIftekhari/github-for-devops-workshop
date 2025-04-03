@@ -3,3 +3,4 @@ git add
 git rm
 git restore
 git push
+git commit (New)
